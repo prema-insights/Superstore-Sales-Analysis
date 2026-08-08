@@ -288,7 +288,7 @@ Power BI Dashboard
 
 
 
-> Add your Power BI dashboard screenshot here.
+> Here Power BI dashboard screenshot.
 
 
 
@@ -298,7 +298,7 @@ Example:
 
 ```
 
-PowerBI/Dashboard.png
+![Dashboard](Screen%20Shots/dashboard.png)
 
 ```
 
