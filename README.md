@@ -300,7 +300,7 @@ Example:
 
 ![Dashboard](Screen%20Shots/dashboard.png)
 
-```
+![Dashboard](https://github.com/prema-insights/Superstore-Sales-Analysis/blob/main/Screen%20Shots/Dashboard%20Image.png?raw=true)
 
 
 
